@@ -5,7 +5,7 @@
     <version>1.2.3</version>
     <authors>Steven Levithan,Scott Trenda,Kris Kowal</authors>
     <owners>Andy Sherwood</owners>
-    <licenseUrl>https://github.com/xinmyname/dateformatjs/blob/master/src/licence.txt</licenseUrl>
+    <licenseUrl>https://github.com/xinmyname/dateformatjs/blob/master/licence.txt</licenseUrl>
     <projectUrl>http://blog.stevenlevithan.com/archives/date-time-format</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Accepts a date, a mask, or a date and a mask. Returns a formatted version of the given date. The date defaults to the current date/time. The mask defaults to dateFormat.masks.default.</description>
